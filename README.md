@@ -43,8 +43,3 @@ Just run
 
 to generate serialRMI.jar in the build directory.
 
-Run
-
-	make install
-
-to copy serialRMI.jar where genBotWI expects it (this assumes that genBotWI is in ..)
